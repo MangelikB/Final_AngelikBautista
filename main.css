@@ -1,0 +1,48 @@
+body {
+    background-color: #f7f5e6; 
+}
+
+.navbar {
+    background-color: #E6007E;
+}
+.navbar-brand,
+.nav-link {
+    color: blue; 
+}
+.nav-link:hover {
+    color: #ffffff; 
+    background-color: #8529A4;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover; 
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #c70f93; 
+    border-radius: 100%;
+    width: 50px; 
+    height: 50px; 
+    background-size: 25%;
+    
+}
+
+.carousel-indicators li {
+    background-color: #a536c7; 
+}
+
+.btn-primary {
+    background-color: #12BBEF;
+    border-color: #12BBEF;
+}
+.btn-primary:hover {
+    background-color: #c70f93; 
+    border-color: #c70f93; 
+}
+footer{
+    background-color: #8529A4;
+}
